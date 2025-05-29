@@ -97,7 +97,7 @@ node exercicio_06.js
 
 ## Tecnologias Utilizadas
 
-- Linguagem: JavaScrpit
+- Linguagem: JavaScript
 - Node.Js
 
 ---
